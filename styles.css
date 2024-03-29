@@ -20,7 +20,7 @@
     padding: 15px;
     color: #fff;
     font-size: 50px;
-    text-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    text-shadow: 0 5px 10px rgba(0,0,0);
 }
 
 .container .box-container{
